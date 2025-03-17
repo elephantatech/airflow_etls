@@ -1,0 +1,7 @@
+data
+logs
+postgres_data
+tmp
+venv
+__pycache__
+*.pyc

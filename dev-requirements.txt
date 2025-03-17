@@ -1,0 +1,13 @@
+# Development Requirements
+
+# Testing
+pytest
+pytest-mock
+coverage
+
+# Formatting and Linting
+black
+flake8
+
+# Other Development Tools
+pre-commit
